@@ -16,4 +16,12 @@
     <img align="center" alt="python"  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
     <img align="center" alt="js"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-</div>
+</div><br/>
+
+## IDE's que utilizo
+
+<div style="display: inline_block"><br/>
+<img align="center" alt="visual studio code"  src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img align="center" alt="pycharm"  src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
+
+</div><br/>
